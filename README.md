@@ -90,7 +90,7 @@
             </div>
         </div>
         <div class="carousel-slide">
-            <img src="https://images.unsplash.com/photo-1568515045872-491a36120139?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=8" alt="River North Rooftop Views">
+            <img src="https://chicagodrinksguide.com/en/blog/images/w/1270/ChicagoDrinksGuide-10272021044143000000-61791ed7cbb5d.jpg-" alt="River North Rooftop Views">
             <div class="slide-caption">
                 <h1>Sky-High Experiences</h1>
                 <p>Take in panoramic city views from iconic rooftop lounges and terraces.</p>
