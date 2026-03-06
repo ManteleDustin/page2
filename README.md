@@ -74,7 +74,7 @@
    <!-- Hero Carousel (Home Section) -->
    <section class="hero-carousel" id="home">
         <div class="carousel-slide active">
-            <img src="https://images.unsplash.com/photo-1556703016-b8fe2e4b5b8b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="River North Skyline at Dusk">
+            <img src="https://c8.alamy.com/comp/2HFH83M/city-skyline-on-the-river-at-dusk-2HFH83M.jpg" alt="River North Skyline at Dusk">
             <div class="slide-caption">
                 <h1>Where Art Meets Urban Life</h1>
                 <p>Discover Chicago's trendiest neighborhood – home to galleries, rooftop bars, and world-class dining.</p>
