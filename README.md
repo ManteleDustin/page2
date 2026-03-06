@@ -90,7 +90,7 @@
             </div>
         </div>
         <div class="carousel-slide">
-            <img src="https://chicagodrinksguide.com/en/blog/images/w/1270/ChicagoDrinksGuide-10272021044143000000-61791ed7cbb5d.jpg-" alt="River North Rooftop Views">
+            <img src="https://cdn.vox-cdn.com/thumbor/HvwDxWNKcmBt0i2itZ03MAn6M8U=/0x0:3500x2333/2420x1613/filters:focal(1470x887:2030x1447)/cdn.vox-cdn.com/uploads/chorus_image/image/54643621/blb13969_33650461713_o.0.jpg" alt="River North Rooftop Views">
             <div class="slide-caption">
                 <h1>Sky-High Experiences</h1>
                 <p>Take in panoramic city views from iconic rooftop lounges and terraces.</p>
@@ -125,7 +125,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://images.unsplash.com/photo-1588496274765-7a6212e10213?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80" alt="Shopping">
+                <img src="https://media.timeout.com/images/101843349/image.jpg" alt="Shopping">
                 <div class="card-content">
                     <h3>Unique Shopping</h3>
                     <p>Discover boutique shops, designer stores, and vintage finds in the neighborhood's charming streets.</p>
